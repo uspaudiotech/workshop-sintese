@@ -1,4 +1,4 @@
-# workshop-synth
+# workshop-sintese
 
 **Vamos criar um sintetizador de áudio!**
 
