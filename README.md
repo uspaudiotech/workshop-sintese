@@ -1,13 +1,12 @@
 # workshop-sintese
 
-**Vamos criar um sintetizador de áudio!**
+**Do Zero ao Som: Criando Áudio Digital com Python**
 
-O objetivo deste workshop é criar um sintetizador de áudio utilizando a linguagem de programação Python, e simultaneamente aprender conceitos básicos de áudio digital e síntese sonora.
+O objetivo deste workshop é aprender conceitos básicos de áudio digital e síntese sonora por meio de interfaces interativas em python.
 
 ## Pré-requisitos
 
-- Conhecimentos básicos de algoritmos e estruturas de dados
-- Conhecimentos básicos de Python
+- Interesse
 
 ## Apoiadores
 
